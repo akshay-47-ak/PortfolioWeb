@@ -26,6 +26,7 @@ body{
     background-color: #2a2a2a;
     border: 1px solid #3a3a3a;
     border-radius: 16px;
+    padding: 16px;
 }
 
 .main-content{
@@ -33,4 +34,40 @@ body{
     background-color: #2a2a2a;
     border: 1px solid #3a3a3a;
     border-radius: 16px;
+}
+
+/*Profile*/
+
+.imgDiv{
+    text-align: center;
+}
+
+.imgDiv img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 1 solid #3a3a3a;
+}
+
+.imgDiv h2{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 20px;
+    color: #e0e0e0;
+}
+
+.imgDiv p{
+    background-color: #1e1e1e;
+    border: 1px solid #2a2a2a;
+    padding: 5px 15px;
+    color: #FFBF00;
+    border-radius: 8px;
+    font-size: 0.8rem; 
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.contact{
+
+
 }
